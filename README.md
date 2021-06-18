@@ -10,3 +10,8 @@ Excellent written and oral communication skills, including the ability to explai
 I recently completed a Full Stack Web Develeopment bootcamp at HyperionDev learning languages like HTML, CSS, JavaScript. Also had to create, submit and deploy various MERN stack apps.
 
 I am currently busy with an inhouse Media24 Future Skills Programme hosted by Friends of Design focusing on topics including Design Thinking, Systems Thinking, Game Thinking and Synergy aimed at creating the next "Techpreneur".
+
+
+# [Project2: About me](https://safwaanapp.herokuapp.com/)
+
+The skills I will learn on this programme will only heighten my ability to help save possible revenue streams and protecting our valuable business. I am currently enrolled in a Web Development course - which will be completed in October and I have already begun assisting our clients who are totally dependant on print media understand the relevance of eCommerce. I am learning HTML, CSS, JavaScript, React and Python to name but a few languages which can help my department streamline the business and automate processes.
