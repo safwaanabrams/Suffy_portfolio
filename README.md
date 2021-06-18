@@ -11,7 +11,7 @@ I recently completed a Full Stack Web Develeopment bootcamp at HyperionDev learn
 
 I am currently busy with an inhouse Media24 Future Skills Programme hosted by Friends of Design focusing on topics including Design Thinking, Systems Thinking, Game Thinking and Synergy aimed at creating the next "Techpreneur".
 
-![](https://github.com/safwaanabrams/Suffy_portfolio/blob/main/images/images.jpg)
+![](/images/images.jpg)
 
 
 # [Project2: About me](https://safwaanapp.herokuapp.com/)
@@ -19,4 +19,4 @@ I am currently busy with an inhouse Media24 Future Skills Programme hosted by Fr
 The skills I will learn on this programme will only heighten my ability to help save possible revenue streams and protecting our valuable business. I am currently enrolled in a Web Development course - which will be completed in October and I have already begun assisting our clients who are totally dependant on print media understand the relevance of eCommerce. I am learning HTML, CSS, JavaScript, React and Python to name but a few languages which can help my department streamline the business and automate processes.
 
 
-![](https://github.com/safwaanabrams/Suffy_portfolio/blob/main/images/images%20(1).jpg)
+![](/images/images%20(1).jpg)
